@@ -3,7 +3,7 @@
 
 
 /**
- * navbar toggle
+ * NavBar toggle
  */
 
 const navbar = document.querySelector("[data-navbar]");
@@ -25,7 +25,7 @@ for (let i = 0; i < navbarLinks.length; i++) {
 
 
 /**
- * header
+ * Header
  */
 
 const header = document.querySelector("[data-header]");

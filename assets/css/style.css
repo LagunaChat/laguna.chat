@@ -3,7 +3,7 @@
 \*-----------------------------------*/
 
 /**
- * copyright 2022 @diwasatreya
+ * copyright 2022 @Laguna
  */
 
 
@@ -148,7 +148,7 @@ button { cursor: pointer; }
 ion-icon { pointer-events: none; }
 
 html {
-  font-family: var(--ff-spartan);
+  font-family: Tahoma, sans-serif;
   font-size: 10px;
   scroll-behavior: smooth;
 }
